@@ -1,11 +1,10 @@
-# Calculadora de IMC
-`Calculando IMC, utilizando jsp.`
+# Atividade Calculo IMC
 
 ## Para rodar o projeto
 
 ### Para fazer clone.
 
-`git clone https://github.com/GuilhermeAlmeidaS/calculo_imc_jsp.git`
+`git clone 
 
 ### Para rodar com o Tomcat.
 
@@ -15,4 +14,5 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:9090/exercicio` em qualquer navegador.
+
+
