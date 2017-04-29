@@ -18,5 +18,6 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
+http://localhost:9090/imc_jsp
 
 
